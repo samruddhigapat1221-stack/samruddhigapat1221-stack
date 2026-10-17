@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Data%20Science-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Graduating-2027-success?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=samruddhigapat1221-stack&label=Profile%20Views&color=2F81F7&style=for-the-badge" />
+  
 </p>
 
 </div>
