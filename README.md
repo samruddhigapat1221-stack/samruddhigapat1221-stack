@@ -85,7 +85,7 @@ A data-driven platform that forecasts retail sales and surfaces customer and bus
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samruddhigapat1221-stack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/samruddhigapat1221-stack](https://www.linkedin.com/in/samruddhi-gapat/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samruddhigapat1221@gmail.com)
 
 </div>
